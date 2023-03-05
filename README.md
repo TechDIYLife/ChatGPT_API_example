@@ -4,7 +4,7 @@
 
 详细制作视频介绍：
 
-[![30行代码完美复现ChatGPT，Colab平台ChatGPT API实战教程 | 从入门到进阶，全面掌握GPT3.5-turbo的必学案例 | 保姆级带你一步一步学习制作ChatGPT应用](https://img.youtube.com/vi/JSuRn1jqXAY/0.jpg)](https://www.youtube.com/watch?v=JSuRn1jqXAY)
+[![30行代码完美复现ChatGPT，Colab平台ChatGPT API实战教程 | 从入门到进阶，全面掌握GPT3.5-turbo的必学案例 | 保姆级带你一步一步学习制作ChatGPT应用](images/chatGPT_withAPI_small.jpg)](https://www.youtube.com/watch?v=JSuRn1jqXAY)
 
 Google colab: https://colab.research.google.com/
 
